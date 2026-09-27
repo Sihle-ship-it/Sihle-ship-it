@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:3b0000,100:8b0000&height=220&section=header&text=S%20I%20H%20L%20E&fontSize=64&fontColor=d4a017&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Mercenary%20%E2%80%A2%20Code%20For%20Hire&descAlignY=62&descSize=18&stroke=d4a017&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:3b0000,100:8b0000&height=220&section=header&text=S%20I%20H%20L%20E&fontSize=64&fontColor=d4a017&fontAlignY=40&animation=fadeIn&desc=Rogue%20Software%20Engineer%20%E2%80%A2%20Code%20For%20Hire&descAlignY=62&descSize=18&stroke=d4a017&strokeWidth=1" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Sihle-ship-it">
-    <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&pause=1200&color=D4A017&center=true&vCenter=true&width=680&lines=Wanted+for+crimes+against+bad+code;A+gun-for-hire+across+the+full+stack;Angular+%E2%80%A2+.NET+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Rides+into+production.+Leaves+no+bugs+behind." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&pause=1200&color=D4A017&center=true&vCenter=true&width=680&lines=Wanted+for+crimes+against+bad+code;Hired+gun.+Frontline+to+back+line.;Angular+%E2%80%A2+.NET+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Rides+into+production.+Leaves+no+bugs+behind." alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
          NAME ......... Sihle
          ALIAS ........ Sihle-ship-it
-         CLASS ........ Full-Stack Mercenary
+         CLASS ........ Rogue Engineer
          CRIMES ....... Shipping to prod,
                         taming legacy code,
                         shooting bugs on sight
